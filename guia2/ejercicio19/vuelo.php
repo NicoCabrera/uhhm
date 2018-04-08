@@ -92,11 +92,25 @@ se le hará un descuento del 20% en el precio del vuelo.  */
         return $auxDoub;
     }
 
+    public function remove($p)
+    {
+        //$aux=array_search($autoRem, $this->_Autos);
+        $aux = array_search($p,$this->_listaDePasajeros,TRUE);
+        if ($aux !== FALSE) 
+        {
+            unset($this->_listaDePasajeros[$aux]);
+        }
+        else 
+        {
+            echo "no se pudo remover el pasajero ya que no existe.<br>";
+        }
+    }
+
 }
  $mivuelo = new vuelo("AA",200,3);
 //echo var_dump($mivuelo);
 $pasajero1=new pasajero("p1","ladsdas",323232,TRUE);
-$pasajero2=new pasajero("p2f","ladsdas",353432,FALSE);
+$pasajero2=new pasajero("p2","ladsdas",353432,FALSE);
 $pasajero3=new pasajero("p3","ladsdas",3232212,FALSE);
 $pasajero4=new pasajero("p4","ladsdas",54334232212,TRUE);
 $mivuelo->AgregarPasajero($pasajero1);
@@ -111,4 +125,8 @@ $mivuelo2 = new vuelo("BB",300,3);
 $mivuelo2->AgregarPasajero($pasajero1);
 $mivuelo2->AgregarPasajero($pasajero3);
 //echo vuelo::Add($mivuelo,$mivuelo2);
+$mivuelo->MostrarVuelo();
+echo "<br>";
+$mivuelo->remove($pasajero1);
+$mivuelo->MostrarVuelo();
 ?>
