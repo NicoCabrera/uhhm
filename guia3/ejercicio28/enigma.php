@@ -9,7 +9,7 @@ class Enigma
         //echo var_dump($mensaje);
         for ($i=0; $i < $len; $i++)//recorro el string por subindices
         {   //echo $mensaje[$i]."<br>";
-            $aux[$i] = (ord($mensaje[$i])+200);//tomo el character, lo paso a ascii y le sumo 200
+            $aux[$i] = (ord($mensaje[$i])+200) ;//tomo el character, lo paso a ascii y le sumo 200
             //echo $aux[$i]."<br>";
         }
         //echo var_dump($mensaje);
@@ -40,10 +40,19 @@ class Enigma
         {
             $auxLinea = fgets($lector);
             $auxDese = explode(" ",$auxLinea);
+            $aux;
+            $len = count($auxDese);
+            for ($i=0; $i < $len; $i++)
+            {   
+                $aux[$i] = chr($auxDese[$i]-200);
+            }
+            echo implode("",$aux);
         }
 
     }
 }
 $men = "asdf";
 Enigma::Encriptar($men,"../misArchivos/contrasenia.txt");
+
+Enigma::Desencriptar("../misArchivos/contrasenia.txt");
 ?>
