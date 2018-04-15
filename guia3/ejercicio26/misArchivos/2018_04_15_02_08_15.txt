@@ -1,0 +1,301 @@
+Special Materials
+
+Orichalcum Equipment
+Orichalcum, sometimes referred to as phantom metal, weapons and armor forged from orichalcum have a translucent, mint-green appearance. Because of it's inherent properties, only certain weapons and armor can be made using the metal.
+
+Orichalcum Weapon
+A weapon made of orichalcum must be a melee weapon that deals slashing or piercing damage. Such a weapon is considered magical for the purposes of overcoming the damage resistance and immunities of creatures with an Etherealness feature, and can strike creatures that are hidden on the Ethereal Plane as if they were on the Material Plane.
+
+Orichalcum Armor
+Armor made of orichalcum must be armor significantly composed of metal. While wearing armor composed of Orichalcum, creatures with the Etherealness feature have disadvantage when attacking you.
+
+Mithral Weapons and Ammunition
+A weapon made of mithral weighs half as much as a normal weapon of it's kind. Mithral weapons gain the light property if they do not have the heavy property. Arrows or bolts crafted out of mithral increase the short range of bows and crossbows by 60 and 30 respectively.
+
+Consumables
+
+Coin of Good Fortunes
+Wonderous item (coin), Rare
+This golden coin has the image of Tymora, goddess of luck, imprinted on both sides. By having this coin on hand, you can treat any attack roll, saving throw, or ability check that the DM makes as a 1 before the results are determined of such a roll. Once used, this coin loses it's luster and becomes a non-magical coin.
+
+Coin of the Kraken
+Wonderous item (coin), Uncommon
+This wooden coin is engraved with the image of a terrible leviathan on one side, and a similarly horrific creature on the other side that is embossed. When thrown into a large body of salt water as an action, you can telepathically communicate with any one creature that you know or heard of who is within 500 feet of the body of water, as the telepathy spell. Once used, this coin weathers away instantly, becoming worthless.
+
+Twin Coins of Kelemvor
+Wonderous item, rare
+These ancient copper coins are always found in pairs; if they are seperated, they seem to find their way back to one another. When these coins are placed over the eyes of a dead creature, that creature's body is preserved as Gentle Repose until the coins are removed, after which the corpse immediately succumbs to the effects time would normally have had on it.
+
+Kelemvor's Coin of Rebirth
+Wonderous item (coin), Very Rare (requires attunement)
+This strange gold coin seems to depict a riverside boat with a cloaked humanoid on one side, and on the other, the symbol of Kelemvor, god of death. This coin has no function until the attuned creature dies: after 24 hours, they are brought back as with the resurrection spell, and magically teleported to the nearest civilization's graveyard, usually in a recently excavated grave or open coffin. The coin is then consumed, dissapearing into Kelemvor's coffers. If the item is removed from the dead creature before this occurs, the coin is not consumed.
+
+Coin of Tyr
+Wondrous item (coin), rare
+This silver coin has the emblem of Tyr, god of justice, on both sides. As an action, you can throw the coin into the air, where it dissapears; in it's place two knights will appear. These knights follow your orders as long as the orders are not self-destructive, but are willing to die for you, and dissapear if there are no immediate threats (usually, they dissapear at the end of combat).
+
+Coin of Defense
+Wondrous item (coin), rare (requires attunement)
+This copper coin has a shield on one side, and a helmet on the other. While you carry this coin, as a reaction, you can make a shield appear in front of you, as the spell. This particular shield confers a +2 bonus to AC instead of +5, and lasts until the end of the turn it was used.
+
+Stone of Sleep
+Wondrous item, uncommon
+This special, fist-sized rock can be used to send a creature into a magical slumber. As an action, you make an improvised ranged attack against a medium creature within 90 feet that you can see. On a hit, the creature falls unconcious, as Sleep, for 1 minute unless they would be immune to it. The rock shatters after successfully helping a creature fall asleep.
+
+Crimson Rose
+Wonderous item (spell component), uncommon
+This strange, bright-red rose feels unusually warm to the touch, and never wilts. When casting a spell that deals fire damage, you can use this spell component in conjunction with the spell. Treat the spell as if it were under the effects of empowered spell, as the Sorcerer feature. The spell component is consumed in the process.
+
+White Ice Shard
+Wonderous item (spell component), uncommon
+A shard of ice that cannot be safely touched without gloves of some fashion, it always appear to gleam white in any condition. These shards are said to be found in the lair of a white dragon. When casting a spell that deals cold damage, you can use this spell component in conjunction with the spell. The spell, if a creature fails their initial save or are hit by the attack roll, if it deals cold damage, their move speed is reduced to 0 until the end of their next turn.
+
+Amber Lightning
+Wonderous item (spell component), rare
+This fist-sized shard of amber appears to have a glowing crack of lightning running from within. Strange rocks like these are commonly found in the lairs of storm giants or in the lairs of behirs. When casting a spell that deals lightning or thunder damage, you can use this spell component in conjunction with the spell. Creatures that fail their initial save or are hit by the attack roll, take maximum damage from the spell. The spell component is lost in the process.
+
+Bone Hurting Juice
+Potion (uncommon)
+When you drink this potion, your bones begin to hurt. You have disadvantage on Strength, Dexterity, and Consitution ability checks and saving throws for 1 hour. This potion is considered a poison, and must be quaffed to have any effect. It can be mixed in another drink without reducing it's effectiveness. Ow, my bones.
+
+Unstoppable Rod
+Wonderous item (rod), very rare
+This rod has a single button at the end of it. As an action, you can hurl the rod and press the button, causing it to never lose momentum. The rod moves 60 feet each round, and when it intersects with a creature, that creature must make a DC 17 Dexterity save or the rod deals 3d6 damage and knocks the them prone, while continuing on it's path. The rod stops moving only if it collides with an object that weighs 5000 pounds or more, at which it is pinned into the object and can be removed by pressing the button on it again. If it collides with an immovable rod, or an object being held in place by an immovable rod, both rods are instantly destroyed and a gate to the Astral Plane is opened. The gate originates at the point of the unstoppable rod's impact. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+
+Band of Morphing
+Wondrous item, very rare (requires attunement)
+As an action while wearing this band, you can dematerialize your body and take on the shape of a 1-meter-wide metal sphere, or return to your original form. Any equipment you are wearing or carrying morphs into your spherical form.
+While in this form, your size becomes Tiny and you can only take the Dash, Disengage, and Dodge actions. You also cannot speak. You can move by rolling along with a walking speed of 50 feet. You can also charge your form with energy and cling to rough surfaces, giving you a climbing speed of 20 feet. While morphed, you have blindsight out to a range of 30 feet but are blind beyond that radius.
+As an action, you can create up to 3 bombs, setting each down in your space. You can move in between setting each bomb, and all of the bombs explode at the start of your next turn. Each creature within 5 feet of a bomb when it explodes must make a DC 15 Dexterity saving throw or take 3d6 force damage. If you are within 5 feet of a bomb, you are immediately pushed 10 feet away from it, taking no damage.
+You can alternatively use your action to create a power bomb in your space, which explodes at the start of your next turn. This bomb deals 10d6 force damage to each creature and object within 30 feet of it, not including yourself. Once you create a power bomb, you cannot do so again until you finish a short rest.
+
+Gemstone of Lathander
+Wondrous item, rare
+You can use your action to hold this gemstone aloft and speak its command word, unleashing a burst of blinding sunlight. Every other creature within in a 60-foot radius must then succeed on a DC 13 Constitution saving throw or be blinded for 1 minute. Creatures with sunlight sensitivity have disadvantage on this saving throw, and creatures with sunlight hypersensitivity automatically fail this saving throw and also take damage as if they had started their turn in sunlight. This property cannot be used again until the gemstone has been exposed to sunlight for 1 hour.
+
+Beacon of Justice
+Wondrous item, rarity unknown
+As an action, you can speak this item’s command word to establish a zone of justice in a 30-foot radius out from the item for 1 minute. If any creature within the zone deals damage to any other creature within the zone, that damage is reduced to 0, and the attacker takes damage equal to to the amount of damage that would have been dealt. Once used, this item cannot be used again until the next dawn.
+
+
+
+Weapons
+
+Everbright Weapon
+Weapon (any), uncommon
+This magic weapon has 3 charges. As an action while holding the weapon, you can expend 1 charge to emit a blinding flash of light. Creatures within 30 feet of you must make a DC 13 Dexterity saving throw or be blinded until the end of your next turn. You can choose to close your eyes to avoid this effect. This weapon also emits bright light out to a range of 30 feet, and dim light out an additional 30 feet. You can suppress or reactivate this light as a bonus action.
+
+Rod of Cats
+Weapon (quarterstaff), rare (requires attunement)
+You have a +1 bonus to attack and damage rolls made with this magic quarterstaff. While attuned to it, you gain darkvision out to a range of 30 feet. If you already have darkvision, its range is extended by 30 feet.
+This quarterstaff has 5 charges. While holding it, you can expend 1 charge to cast darkvision or spider climb, or 2 charges to cast pass without trace or darkness. You and anyone touching the staff can see through the darkness created by a spell cast in this way. At dawn, the staff regains 1d4+1 charges.
+The staff also has a secret compartment large enough to hold a set of thieves' tools, a scroll, or another object of similar size. A creature looking over the staff must make a DC 20 Intelligence (Investigation) check to find the compartment if it is not already aware of it.
+
+Rod of Surprises
+Wondrous item, rare (requires attunement)
+This rod is covered in seams, hinges, and bolts. At one end are five black buttons. As an action, you can press the buttons to activate one of the following effects:
+- The rod spouts a point or blade that allows it to be used as a javelin, sickle, spear, quarterstaff, halberd, glaive, pike, or short sword. You are proficient with this magical weapon, which has a +1 bonus to attack and damage rolls while you wield it.
+- You cast magic mouth, targetting the rod. You do not need to provide material components for this spell.
+- The rod lengthens between 2 and 60 feet. The rod can support up to 800 pounds without bending, but cannot support more than 1200 pounds without breaking.
+
+Blade of the Silver Flame
+Weapon (dagger), very rare
+This ritual dagger of the Silver Flame is adorned with inscriptions and many gems, with a coautl wrapping around its hilt. You have a +2 bonus to attack and damage rolls made with this dagger. You can use the dagger to cast divination without material components, though the dagger can then no longer be used in this way for 7 days.
+Hidden Potential. An identify spell also reveals that the dagger has untouched power within it. A DC 25 Intelligence (Religion) check reveals the nature of this power. A knowledgeable high cleric of the Silver Flame may also know such a secret.
+If you sprinkle powdered silver worth 100 gp over this dagger while it is immersed in fire, you can unlock its true potential. The powdered silver is consumed and the dagger becomes wreathed in a 4-foot blade of shimmering silver flame. This flame gives off bright light to a range of 30 feet, and dim light 30 feet beyond that. After awakening this power, you can activate or deactivate the flames as a bonus action while you hold it. While wreathed in flames, the dagger deals 3d6 fire damage instead of its normal damage die, ignoring resistance, but not immunity, to fire damage.
+
+Mageknight's Blade
+Weapon (any slashing weapon), Uncommon (requires attunement by a spellcaster)
+This magic blade is a staple to any would-be spellsword, and seems to glow with a faint light. While attuned to this weapon, you cannot be disarmed of it unless you are incapacitated. If the weapon is on the same plane of existance as you are, you can summon it to your hand as a bonus action by speaking a command word, causing it to teleport instantly to your hand.
+
+Cane of Llspeid
+Wonderous item (cane), rare (requires attunement by a spellcaster)
+This strange cane is marked with various magical letters that have no real meaning, even to spellcasters. While you are holding the cane, you can point the cane at a creature and cast counterspell if the spell being cast has verbal components. If the counterspell is successful, the target speaks gibberish instead of the normal magical verses. Once this property is used, it can't be used again until the next dawn.
+
+Cane of Feristu
+Wonderous item (cane), rare (requires attunement by a spellcaster)
+This crimson cane seems to smell as if it was recently burned, but shows no evidence of that regard. This cane has 3 charges, and regains 1d3 charges at dawn. While you are holding the cane and a one-handed weapon, you can cast searing smite as if it were from a 2nd level spell slot by expending a charge. When you do so, the cane ignites into white flames, which are harmless, and coats the weapon used for the smite in a similar fashion until it is expended.
+
+Cane of Zeital
+Wonderous item (cane), very rare (requires attunement by a spellcaster)
+This black cane with gold trim appears to have a blurry trail when it shifts or moves. You can use this cane to cast time stop, except it stops time for 2 rounds. Once this property has been used, it cannot be used again until the next full moon. While in the effects of time stop, colors appear inverted to you.
+
+Crystal Knuckles
+Weapon (fist weapon), uncommon
+This set of metal knuckles have quartz-like crystals at the ends of the knuckles. You deal an additional 1d4 piercing damage with this weapon, which deals 1d4 bludgeoning damage normally. If you critically hit with this weapon, the creature takes 4d4 piercing damage, and the crystal knuckles becomes an ordinary set of brass knuckles until the next dawn.
+
+Master Sword
+Weapon (longsword), legendary (requires attunement by a courageous hero)
+This longsword is known as the weapon that seals away the darkness, and is passed down generation to generation to those of a certain bloodline. While attuned, this weapon functions as a +2 longsword, becoming a +4 longsword in the presence of a fiend or a creature with connections to a fiend (such as a fiend pact warlock). As an action, while you have full HP, you can swing the sword and launch a disc of magical energy; this is a ranged weapon attack using your Strength modifier that deals radiant damage equal to a normal weapon attack with this weapon. The range is 30 feet, and does not have a long range. Against powerful fiends, this weapon's true purpose becomes apparent. When a fiend with a CR of 20 or higher is reduced to 0 hit points or less with this weapon, you can use a bonus action to drive the blade into the fiend, causing them to become sealed away. Such creatures can no longer be resurrected by any means for 100 years. When used in this fashion, the Master Sword loses it's magic, and can no longer be used for 100 years.
+
+Frontier Justice Crossbow
+Weapon (any crossbow), rare (attunable by any proficient in the weapon)
+This rustic crossbow appears heavily weathered, but is still fully functional, and is branded on the side of one of it's plates with a set of initials. As a bonus action, you can cast hunter's mark on an enemy within the short range of the crossbow. You immediately understand any crimes committed by the creature in regards to the local area; if the target is a murderer, the damage bonus from hunter's mark is doubled. This power can't be used again until after the next sunset, but only if the sun is visible on the horizon.
+
+Graybeard's Revenge
+Weapon (light crossbow), Uncommon
+This rotted crossbow shows signs of it once belonging to a pirate, and a bearded skull emblazons the front plate of the crossbow. This bow deals an additional 1d6 acid damage to creatures able to breathe both air and water. If such a creature is reduced to 0 hit points or less, the bow lets out a boisterous pirate laugh, and you can make an additional attack against that creature.
+
+Longsword of Sanctuary
+Longsword, very rare (requires attunement)
+This longsword is engraved with the image of a home near the base of the hilt, and the hilt itself is plated in bronze. As an action, the sword can be thrown up to 30 ft., where it sinks magically halfway into the ground and creates a holy hallow spell on the impact point, with courage as the additional effect. When the spell is dispelled, if the sword removed from the ground with a DC 15 Strength check, or after 1 hour has passed, the effect ends, and this can't be used again until the next dawn. This weapon is still treated as a magic longsword regardless if the effect has been used or not.
+
+Mage Masher
+Weapon (dagger), Very Rare
+This crystal-bladed weapon hums when cleaned, and never seems to lose it's sharpness. In the presence of magic, it glows with a faint light. You add +1 to your attack rolls and damage rolls with this weapon. In addition, when you hit a creature with the spellcasting or innate spellcasting ability, they must make a DC 15 Constitution Save or be unable to cast spells for 1 minute. At the end of the affected creature's turn, they may attempt a new save.
+
+Ragnarok
+Weapon (long sword), Legendary (requires attunement)
+A gold-gilded sword made to end battles. It was once wielded by a paladin of legend who dropped his corrupted ways. You add +2 to attack rolls and damage rolls made with this weapon, and you have proficiency in wisdom saves if you do not already. As an action, you may attempt to strike at a creature's held weapon. Make an improvised attack with this weapon against the creature's AC. If you hit, you destroy the creature's weapon if it is non-magical; if it is magical, the weapon loses it's magical properties until the next dawn and the creature is disarmed of the weapon.
+
+Vanguard Buster
+Weapon (any bludgeoning), Rare
+This weapon has an intricate rope attached to the pommel and is covered in large spikes where it would be expected (the ends of a hammer's block, for example). You gain a +1 bonus to attack rolls and damage rolls made with this weapon. In addition, as an action, you can hurl the weapon up to 20 ft at an enemy wielding a shield. Make a ranged attack using your Strength modifier against the creature using this weapon with advantage. If the attack hits, in addition to dealing damage as normal, the creature also loses the benefits of carrying a shield, and cannot use reactions until the end of their next turn.
+
+Dagger of Omens
+Weapon (dagger), rare
+This blade is always stained with old blood, no matter how often it is cleaned. As an action, you can attempt to inflict a curse with this dagger on a creature. Make a melee attack using this dagger, treating the dagger as an improvised weapon; on a hit, it deals 1d4 piercing damage, and the target is cursed. While they are cursed, if the creature is critically hit while they have 100 hit points or less, they are killed instead. A remove curse spell or similar effects remove this curse, and prevent it from being applied again by this dagger. Once the curse is applied, the dagger can't apply a new curse until the target is dead or until the next dawn if the target dies within 24 hours.
+
+Everbright Weapon
+Weapon (any), uncommon
+This magic weapon has 3 charges. As an action while holding the weapon, you can expend 1 charge to emit a blinding flash of light. Creatures within 30 feet of you must make a DC 13 Dexterity saving throw or be blinded until the end of your next turn. You can choose to close your eyes to avoid this effect.
+This weapon also emits bright light out to a range of 30 feet, and dim light out an additional 30 feet. You can suppress or reactivate this light as a bonus action.
+
+Rod of Flameskulls
+Rod, rare (requires attunement)
+This stone rod has a flameskull that was captured and enslaved upon it. The flameskull can talk and see, but cannot move or take actions on its own. You can suppress or allow its ability to talk at any time while attuned to it.
+The rod has 7 charges and regains any spent charges at dawn. While holding the rod, you can use 3 charges to cast fireball, 2 charges to cast flaming sphere, or 1 charge to cast magic missile. The spell save DC for these spells is 13.
+As an action, you can fire two rays of fire from the rod. These are ranged spell attacks that deal 3d6 fire damage with a +5 bonus to their attack rolls and a range of 30 feet.
+
+Smouldering Obsidian Knife
+Weapon (Dagger), uncommon (requires attunement)
+You can use a bonus action to speak the command word. When you do so, the weapon begins to emit a scorching heat, each creature in a 5-foot-radius sphere centered on the knife must make a DC 13 Dexterity saving throw. A creature takes 2d6 Fire damage on a failed save, or half as much damage on a successful one. Once you use this ability, you cannot do so again until the next dawn.
+
+Chromatic Blade
+Weapon (longsword), uncommon (requires attunement) 
+This blade reflects light in a multicoloured array, and emits dim light in a 5 foot radius. Once per day, the wielder may make an attack with this weapon, dealing 3d8 of a damage type you choose from acid, cold, fire, lightning, poison, or thunder damage instead of the normal damage this weapon does. The blade changes colour depending on the damage this strike does until the next dawn.
+
+Shimmering Gladius
+Weapon (shortsword), legendary
+This simple, bronze-hilted sword is in pristine condition despite the age implied by its ancient design. You gain a +1 bonus to attack and damage rolls made with this magic sword.
+As an action, you can choose to impale this sword within the body of a creature within reach. If the creature has 50 hit points or fewer, they are petrified until the sword is removed from their body with a successful DC 20 Strength check made as an action by another creature. Normally, this property cannot be used again until the next dawn, but when you attack a creature with this sword and roll a 20 on the attack roll, the property is triggered regardless.
+
+Ghostblade
+Weapon (Greatsword), Legendary (Requires Attunement)
+You gain a +3 bonus to attack and damage rolls made with this magic weapon. Due to the swords invisible blade, you always have advantage on attacks made with this weapon as long as the creature cannot see it.
+As an action, you can point your blade at creature, firing a beam of holy energy at them. The beam extends towards them, forming a line 5 feet wide that extends out from you to a target within 120 feet. Each creature in the line excluding you and the target must make a DC 15 Dexterity saving throw, taking 8d8 radiant damage on a failed save, and half as much damage on a successful one. Make a ranged weapon attack against the target. On a hit, the target takes damage from the greatsword plus 6d8 radiant damage and if the target is a creature that has 100 hit points or fewer, it must succeed on a DC 15 Constitution saving throw or die.
+
+Commandant's Cutlass
+Weapon (shortsword), uncommon (requires attunement)
+A decorative looking sword, complete with an ivory handle and gold filigree embossed into the hilt and handguard. When you take the attack action on your turn, you may use a bonus action to allow an ally within 30ft. to use their reaction to make one weapon attack against a creature within their reach
+
+Queen's Stinger
+Weapon (shortsword), very rare (requires attunement)
+
+This magic shortsword is made from the stinger of a giant wasp queen. You gain a +1 bonus to attack and damage rolls made with this weapon. Any poison you apply to this weapon does not dry out, remaining potent until used.
+     Additionally, you can cast animal friendship at will with this item, but you can target only wasps with it. When you cast the spell with this item, you can target a swarm of wasps as if it were a single beast.
+
+
+
+Armor
+
+Iced Boots
+Wonderous item (Boots), Uncommon
+These boots always appear to have a thin layer of frost covering them. While wearing these boots, your move speed while on the ground is increased by 10 feet, and you ignore natural difficult terrain. However, you always treat the floor as being covered with slippery ice (Wilderness Hazards, PG 110 DMG).
+
+Fire Breaker Shield
+Armor (shield), Uncommon
+This wooden shield is made of burnt ironwood, making it incredibly durable. Magic runes are lined on the back of the shield. As a reaction, you can use this shield to reduce the damage from a spell or ability that deals fire damage to you to 0. Once used, this shield becomes useless, as the wood is burned away, leaving just a husk. The shield returns to normal daily at dusk.
+
+Aquatic Shirt
+Wondrous item, rare (requires attunement)
+This shirt is made of clear, flowing water, usually stored in a waterskin or flask. You cannot wear it unless you attune to it, as your hand passes right through it. While wearing this shirt, you gain a swimming speed of 50 feet, you do not have to breathe while submerged in water, and you are resistant to cold damage. This shirt is completely invisible while submerged in water.
+
+Hair Shirt of Suffering
+Wondrous item, uncommon
+This shirt is made of layers of brown horsehair. While wearing the shirt, you have a +1 bonus to AC as long as you are not wearing magical armor over it. As an action while wearing the shirt, you can cast cure wounds on a creature other than yourself as a 3rd-level spell using Wisdom as your spellcasting ability modifier. The shirt cannot be used in this way again until the next dawn.
+
+Mantle of the Roper
+Wondrous item, uncommon (requires attunement)
+This mantle is heavy (weighing 20 lbs.) and has the look of rough stone, though it is quite flexible. You have a +1 bonus to AC while you wear it.
+As an action, you can cause the mantle to lash out at up to four creatures within 50 feet of you that you can see. Each target must make a DC 13 Strength saving throw. On a failed save, the creature is restrained and dragged 25 feet closer to you. At the end of your next turn, this condition ends as each tendril falls off and dissolves. Once you use this ability, you cannot do so again until the next dawn.
+
+
+
+Equipment
+
+Lightning Gauntlets
+Wondrous item, uncommon
+These gauntlets have three charges. An action, you can expend one charge to force a creature within 5 feet of you make a DC 13 Dexterity saving throw. On a failed save, the creature takes 4d6 lightning damage, or half as much on a successful save. Whether it saves or not, the creature cannot take reactions until the starts of its next turn. Any spent charges replenish at dawn.
+
+Lodestar Necklace
+Wondrous item (amulet), Legendary (requires attunement)
+This obsidian glass amulet is shaped in the form of a falling black star, and feels warm to the touch. Inscribed on it's surface are Infernal runes of fire and brimstone. As an action, you can cast meteor swarm, centered on yourself, with twice the normal radius. You automatically save against the spell. Creatures who are reduced to 0 hit points by this spell are reduced to ash. Regardless if you survive the properties of this item, it cannot be used again until the next new moon (30 days).
+
+Medallion of Resolution
+Wondrous item (amulet), Very Rare (requires attunement by a divine spellcaster)
+Plated in gold, and depicting a stalwart hero standing against insurmountable odds, this medallion gleams brilliantly in times of great despair. At the start of your turn, if you are under an effect that prevents you from acting normally or moving, or under the effects of mind control, you can remove all such effects. For each source, the damage roll of the next attack you make this turn increases by 1d8 radiant, to a maximum of 5d8. Once this property has been used, it cannot be used again until seven days have passed.
+
+Serpentile Symbol
+Wonderous item (holy symbol), Rare (requires attunement by a cleric, druid, ranger, or paladin)
+This strange symbol appears to be shaped to look like a serpent twined around a rod. It can be used as a holy symbol or druidic focus without attuning to it. While attuned, undead have disadvantage on saves against your Channel Divinity effects if you have the feature, and you have advantage on saves against spells or attacks used by undead creatures. Additionally, you can use the symbol as an action to cast speak with dead. You can use this property once, after which the light of the dawn is needed to restore it.
+
+Kinetic Gauntlets
+Wondrous item, uncommon (requires attunement)
+These gloves use small dragonshards to store kinetic force and unleash it under the user's will. They have 3 charges. You can expend one charge to cast catapult (DC 13). The object you use with this spell must be held in your hand. Any unspent charges are regained at dawn.
+Additionally, the normal and long ranges of thrown weapons and the distance you can throw a given item while wearing these gloves are doubled.
+
+Lolth's Rod of Encouragement
+Arcane focus (rod), Uncommon
+This strange black rod has a whip-like appendice at the end that is useless for combat purposes. When you cast damaging spells with this rod, you may choose a willing ally to also suffer the damage result (can't be reduced). If they do, that ally gets advantage on their next attack roll.
+
+Belt of Hidden Pouches
+Wondrous item, rare
+This hefty 5-pound belt contains ten small pockets, large enough to hold only a few coins. Behind each of these pockets are two more pockets that cannot be seen except by magical means. Each of these 30 pocket is actually an extradimensional space that can hold up to a 1/2 cubic foot or 5 pounds of nonliving matter. No object with any dimension exceeding 6 inches can be placed in a pocket. You can place or remove an item from a pocket as though interacting with an object, but only a person wearing the belt can access the hidden pockets. As long as the item would fit in the extradimensional space, it can be easily placed or removed in a pocket, regardless of the size of the pocket's opening.
+Placing a belt of hidden pouches inside an extradimensional space created by a bag of holding, portable hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+
+Merrix's Alchemical Satchel
+Wondrous item, rare (requires attunement)
+This satchel contains regents and materials for alchemical compounds. By reaching into it, you can pull out a magically-created vial that can produce a magical effect of your choice from the list below. The attack bonus for a vial effect is +7, while the save DC is 15. Once you have pulled out a vial, you cannot do so again for 1 minute, and once you have pulled out 5 vials, the bag will not produce another until after the next dawn.
+- Blinking Draught. As an action, you produce a vial of yellow static and immediately drink it or feed it to a willing creature within 5 feet of you. At the end of each of your turns for the next minute, you teleport in a straight line 30 feet away from you, stopping in the unoccupied space closest to the end of the line. Determine the direction of this line randomly by rolling a d8 for the direction: 1 for north, going clockwise with 8 as northwest.
+- Brilliant Flame. As an action, you produce a vial filled with the light of the very sun and throw it at a point within 30 feet of you. On impact, each creature within 10 feet of the point must make a Dexterity saving throw. On a failed save, the creature is blinded until the end of its next turn. The point it hit sheds bright light that extends 150 feet from the point, and dim light out a further 150 feet. This light fades after 1 minute. Magical darkness created by any spell of 3rd level or lower is immediately dispelled by this light. The light is sunlight.
+- Grasping Formula. As an action, you produce a vial filled with squirming black maggots and throw it at a point within 30 feet of you. On impact, each creature within 20 feet of the point must make a Strength saving throw. On a failed save, the creature is dragged prone and to the unoccupied space nearest to the point by strangling black tendrils, which then fade into smoke.
+- Sticky Cloud. As an action, you produce a vial filled with smoke and throw it at a point within 30 feet of you, creating a 5-foot-radius cloud that quickly disappates. Each creature within the cloud must make a Constitution saving throw. On a failed save, the creature's speed becomes 10 for 1 minute if it is not already lower. A creature can repeat this save at the end of each of its turns to end this effect early.
+
+Rod of Surprises
+Wondrous item, rare (requires attunement)
+This rod is covered in seams, hinges, and bolts. At one end are five black buttons. As an action, you can press the buttons to activate one of the following effects:
+- The rod spouts a point or blade that allows it to be used as a javelin, sickle, spear, quarterstaff, halberd, glaive, pike, or short sword. You are proficient with this magical weapon, which has a +1 bonus to attack and damage rolls while you wield it.
+- You cast magic mouth, targetting the rod. You do not need to provide material components for this spell.
+- The rod lengthens between 2 and 60 feet. The rod can support up to 800 pounds without bending, but cannot support more than 1200 pounds without breaking.
+
+Strider Scarf
+Wondrous item, rare (requires attunement)
+This scarf allows it weared unmatched mobility. You gain the following benefits while wearing and attuned to the scarf:
+- If you move in a straight line up to your speed on your turn, you do not provoke opportunity attacks with that movement.
+- Your high jump is at least 10 feet and your long jump is at least 20 feet, with or without a running start. If you high jump, you can high or long jump again before falling.
+- If you fall within 5 feet of a vertical surface, you can reduce your falling speed to a rate of 60 feet per round as a reaction by clinging to the surface. Such falls do not deal falling damage.
+
+Van Richten's Amulet 
+Wondrous item, uncommon (requires attunement)
+This amulet was inspired by tales of a great hunter of undead abominations. While wearing this amulet, you gain the following benefits:
+- You have a +2 bonus to damage rolls against undead.
+- You have advantage on Intelligence checks to recall information about undead.
+- You have advantage on Wisdom (Survival) checks to track undead.
+
+Chasme Bagpipe
+Wondrous item, unknown rarity
+These bagpipes are partially made of a chasme demon’s tracheal system. You must be proficient with wind instruments to use these bagpipes. You can use an action to play them, creating a horrid droning sound to which demons are immune. So long as you spend your action each round to continue playing these bagpipes, any other creature that starts its turn within 30 feet of you must succeed on a DC 12 Constitution saving throw or fall unconscious for 1 minute. A creature that can't hear the drone automatically succeeds on the save. The effect on the creature ends if it takes damage or if another creature takes an action to splash it with holy water. If a creature's saving throw is successful or the effect ends for it, it is immune to the drone for the next 24 hours.
+Once you stop playing, this property of these bagpipes can't be used again until the next dawn.
+
+Arcane Springboard
+Wondrous item, common
+As an action, you can throw this piece of magic cloth to an unoccupied space within 60 feet of you. It forms a magic springboard that takes up the space of a Small creature for 1 minute. You or an ally can enter the springboard's space and be propelled 20 feet in a straight line. The creature stops early if it would move through a creature's space or hit a solid surface during this movement. This movement does not count toward a creature's movement for the turn and does not provoke opportunity attacks.
+As a bonus action, you can direct the springboard to move to an unoccupied space within 30 feet of it. The springboard becomes cloth again, moves in a straight line to the space, then reforms. The board stops early if it hits a solid surface, reforming in the nearest unoccupied space. After 1 minute, the arcane springboard loses its magic and becomes a normal piece of cloth.
+
+Monk's Belt
+Wondrous item, rare (requires attunement)
+This simple rope belt, when wrapped around your waste, confers great ability in unarmed combat. Its benefits vary if you have monk levels or not. You cannot wear armor or wield a shield to benefit from its effects.
+If you have monk levels, your AC increases by 1 while you benefit from your Unarmored Defense. Your unarmed strikes deal 2 additional points of damage. Finally, when you regain ki points, you gain 2 additional ki points while wearing the belt on top of your normal ki points count.
+If you do not have monk levels, you gain several monk features. Your AC equals 10 + your Wisdom modifier + your Dexterity modifier. Your unarmed strikes deal a d6 of bludgeoning damage, and you can use your Dexterity modifier in place of your Strength for their attack and damage rolls.
+Regardless, when you hit with an unarmed strike, you can force the target to make a DC 13 Constitution saving throw. On a failed save, it is stunned until the end of your next turn. Once you try to stun a creature in this way, you cannot do so again until you finish a short rest.
